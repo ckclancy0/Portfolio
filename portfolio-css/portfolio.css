@@ -1,0 +1,52 @@
+h1 {
+    color: teal;
+    font-family: Knewave;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h2 {
+    font-family: Knewave;
+    margin-left: 20px;
+    top: 1px;
+}
+
+h3 {
+    font-family: Knewave;
+}
+
+.title {
+    font-family: Knewave;
+    margin-left: 20px;
+}
+
+hr {
+    height: 3px;
+    color: teal;
+    background-color: teal;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+.sidebar {
+    width: 300px;
+    position: fixed;
+    top: 160px;
+    right: 20px;
+    color: white;
+    background-color: teal;
+    padding: 20px;
+    font: 20px sans-serif;
+}
+
+.scrollable {
+   overflow: scroll; 
+   width: 700px;
+   margin: 10px;
+   height: 500px;
+}
+
+.card {
+    margin-bottom: 5px;
+}
